@@ -82,8 +82,7 @@ export DOCKER_BUILDKIT=0
 ---
 
 ## 🌐 Live Demo
-
-http://100.48.86.8
+⚠️ Demo available upon request (instance is stopped to avoid unnecessary costs)
 
 ---
 
