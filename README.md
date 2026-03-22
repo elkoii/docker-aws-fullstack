@@ -90,7 +90,7 @@ export DOCKER_BUILDKIT=0
 
 ### 🌐 Application Running
 
-![App](screenshots/app.png)
+![App](screenshots/app.jpg)
 
 ### 🐳 Docker Containers
 
