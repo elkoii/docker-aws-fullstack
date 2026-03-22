@@ -1,3 +1,6 @@
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-green)
 # 🚀 Dockerized Full Stack App on AWS EC2
 
 ## 📌 Overview
